@@ -44,8 +44,7 @@ autocmd BufNewFile,BufReadPost *.md.html set filetype=markdown
 " relative line numbers
 " Sets relative line numbers in normal mode, absolute line numbers in insert
 " mode
-set number
-set relativenumber
+" set relativenumber
 
 " use ripgreg instead of grep
 set grepprg=rg\ --vimgrep
