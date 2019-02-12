@@ -13,6 +13,8 @@ set backspace=indent,eol,start
 
 " Enable line numbers
 set nu
+" Always show the sign column
+set signcolumn=yes
 
 " Enable line/column info at bottom
 set ruler
